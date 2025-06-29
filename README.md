@@ -72,7 +72,7 @@ Add **Open Source Society University** to your [Linkedin](https://www.linkedin.c
 
 ## Prerequisites
 
-The Data Science curriculum assumes the student has taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) and [statistics](https://www.khanacademy.org/math/probability).
+The Data Science curriculum assumes the student has taken [high school math](https://ossu.dev/precollege-math) and [statistics](https://www.khanacademy.org/math/probability).
 
 ## Curriculum
 
@@ -156,7 +156,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
-[Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python)) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning) ([Textbook](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-second-edition))
+[Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python)) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning) ([Textbook](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-second-edition))
 
 ### Data Science Tools & Methods
 
